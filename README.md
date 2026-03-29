@@ -46,11 +46,17 @@ Estructura básica:
 * ✏️ Edición de usuarios
 * ❌ Eliminación de usuarios
 
+##  Usuario de prueba
 
-##  Notas
+Usuario: admin  
+Contraseña: 1234
 
-* La contraseña se maneja en texto plano (sin encriptación)
-* Asegúrate de que MySQL esté activo antes de ejecutar
+
+  Notas importantes
+
+- Las contraseñas se almacenan en texto plano (sin encriptación)
+- Es necesario tener XAMPP activo (Apache y MySQL)
+- Importar la base de datos antes de ejecutar el sistema
 
 
 ##  Autor
